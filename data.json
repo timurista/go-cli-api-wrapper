@@ -1,0 +1,20 @@
+{
+  "deploy_completion_status": "TEST_UPDATE_COMPLETE",
+  "event_type": "deploy",
+  "userID": "turista",
+  "code_version": "c09526aa3dse",
+  "stack_version": "32092",
+  "git_hash_code": "https://gitlab.eng.roku.com/SR/page-optimizer/commit/c09526aa3e",
+  "deploy_job_number": "32030",
+  "deploy_job_name": "https://cidsr.eng.roku.com/view/Deploy/job/deploy-service-stack-v2/",
+  "service_team": "SR",
+  "service_name": "page-optimizer",
+  "service_environment": "dev",
+  "AWS_account": "638782101961",
+  "AWS_region": "us-west-2",
+  "deploy_start_time": "2020-03-14T20:21:52.543884",
+  "deploy_complete_time": "1584389991000",
+  "id": "TEST_EVENT_RECORD_DEPLOY_V12",
+  "docker_tag": "TEST_EVENT_RECORD_DEPLOY_V6:master-c09526aa3e-20200205-36016",
+  "tracker_id": "32093"
+}

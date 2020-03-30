@@ -1,0 +1,12 @@
+query {
+  allPeople {
+    pageInfo {
+      startCursor
+      hasNextPage
+      endCursor
+    }
+    people {
+      name
+    }
+  }
+}
