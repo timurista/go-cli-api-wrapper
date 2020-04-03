@@ -10,7 +10,9 @@ import (
 )
 
 func e(err error) {
-	log.Fatalln(err)
+	if err != nil {
+		log.Fatalln(err)
+	}
 }
 
 func handle(conn net.Conn) {
